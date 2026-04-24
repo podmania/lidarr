@@ -1,2 +1,1 @@
-# lidarr
- 
+# sonarr
